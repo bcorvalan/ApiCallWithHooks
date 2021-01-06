@@ -1,0 +1,6 @@
+Que necesito? 
+
+1) Data UserRandom 
+2) Input 
+3)Drop down con todos los usuarios
+4) Lista de usuarios elegidos 
